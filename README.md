@@ -20,6 +20,7 @@
 - update category
 - delete category
 
+##
 - filtering produk berdasarkan nama,harga, atau stok
 - sorting produk berdasarkan harga stok
 - pagination produk dan histori restock
